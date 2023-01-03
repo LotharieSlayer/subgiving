@@ -1,2 +1,2 @@
 # subgiving
-Subgiving WTPBot plugin
+Subgiving plugin for WTPBot
